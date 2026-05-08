@@ -71,3 +71,16 @@ python manage.py runserver
 
 ## Open in Browser
 http://127.0.0.1:8000/
+
+
+## Screenshots
+
+![Home Page](Screenshot%202026-05-08%20132159.png)
+
+![Courses Page](Screenshot%202026-05-08%20132212.png)
+
+![Dashboard](Screenshot%202026-05-08%20132225.png)
+
+![Payment Page](Screenshot%202026-05-08%20132236.png)
+
+![Video Section](Screenshot%202026-05-08%20132248.png)
